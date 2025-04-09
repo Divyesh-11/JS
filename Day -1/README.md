@@ -1,16 +1,24 @@
 # 🟨 JavaScript Basics - First Script
+# JavaScript Basics 🚀
 
-This is a beginner-friendly JavaScript script that covers:
+Welcome to my JavaScript scripting journey! This repository covers the foundational concepts of JavaScript, starting with variables, data types, and objects.
 
-- Variable declaration rules
-- `var`, `let`, and `const` usage
-- Data types in JavaScript
-- Type checking
-- Object creation and manipulation
+## 📌 Topics Covered
 
+### 🔹 Variables
+- `var`, `let`, and `const`
+- Scope and Hoisting
+- Variable naming conventions
+
+### 🔹 Data Types
+- Primitive Types: `String`, `Number`, `Boolean`, `Null`, `Undefined`, `Symbol`, `BigInt`
+- Reference Types: `Object`, `Array`, `Function`
+
+### 🔹 Objects
+- Creating and accessing objects
+- Object methods
+
+## 📁 Folder Structure
+- index.html
+- script.js
 ---
-
-## 👋 Hello World
-
-```javascript
-console.log("Hello world..! This is my first script in JS");
